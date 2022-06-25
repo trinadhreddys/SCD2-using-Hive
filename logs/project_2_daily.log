@@ -1,0 +1,16 @@
+sql insertion  and updation successfully executed at 2022-06-23 14:12:08
+sqoop imp job successfully executed at 2022-06-23 14:12:08
+hive scd successfully executed at 2022-06-23 14:12:08
+day_recol successfully truncated at 2022-06-23 14:12:08
+sqoop exp job successfully executed at 2022-06-23 14:12:08
+sql comparison successfully executed at 2022-06-23 14:12:08
+archival failed  at 2022-06-23 14:12:08 
+******************************************************************************************************
+sql insertion  and updation successfully executed at 2022-06-23 14:23:38
+sqoop imp job successfully executed at 2022-06-23 14:23:38
+hive scd successfully executed at 2022-06-23 14:23:38
+day_recol successfully truncated at 2022-06-23 14:23:38
+sqoop exp job successfully executed at 2022-06-23 14:23:38
+sql comparison successfully executed at 2022-06-23 14:23:38
+successfully archived at 2022-06-23 14:23:38
+******************************************************************************************************

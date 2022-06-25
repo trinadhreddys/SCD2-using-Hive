@@ -1,0 +1,7 @@
+sql successfully executed at 2022-06-23 14:09:15
+sqoop imp job  failed  at 2022-06-23 14:09:15 
+******************************************************************************************************
+sql successfully executed at 2022-06-23 14:10:50
+sqoop imp job successfully created at 2022-06-23 14:10:50
+hive ots successfully executed at 2022-06-23 14:10:50
+sqoop exp job successfully created at 2022-06-23 14:10:50
