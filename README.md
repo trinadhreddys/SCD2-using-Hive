@@ -1,4 +1,4 @@
- ## Project 2: Loading Online Event Hits using Sqoop to Hive via Shell Script         
+ ## Project 2: Loading Online Event Hits using Sqoop to Hive via Shell Script (SCD2)
 
 In this project Data is sent by the client everyday in CSV format. So load all the data in MySQL everyday and then export it to HDFS. From there load the Data to hive and do the partioning on Year and Month and implement SCD Type-2 Logic and then load the data for Data reconcilation so that no loss of data takes place at any day.
 
